@@ -1,0 +1,2 @@
+#coding:utf-8
+#搭建的git.io 的blog
